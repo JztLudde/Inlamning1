@@ -16,4 +16,4 @@ Skapar en mapp med tre undermappar och en loggfil som visar när strukturen skap
 
 ## Reflektion
 
-Enkel men tydlig lösning. Bra övning i grundläggande PowerShell.
+Lätt uppgift, tydlig och enkel att följa och göra
