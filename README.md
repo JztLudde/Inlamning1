@@ -1,4 +1,4 @@
-# Strukturverktyg (Enkel version)
+# Strukturverktyg
 
 ## Vad gör skriptet?
 
